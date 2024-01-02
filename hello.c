@@ -2,4 +2,5 @@
 int main(){
 printf("hello world!\n");
 printf("hello,20201327ljm");
+printf("test");
 }
